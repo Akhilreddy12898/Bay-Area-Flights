@@ -1,6 +1,6 @@
 # Bay-Area-Flights
 
-## 2019 Bay Area Flight Data Exploration
+## Bay Area Flight Data Exploration
 This visual exploration uses data from the Bureau of Transportation Statistics, which tracks the on-time performance of US domestic flights as well as the causes of any delays. For this exploration, I have downloaded CSV files from the Bureau of Transportation Statistics website and narrowed down the dataset to 2019 departures and arrivals at Bay Area airports, which include SFO (San Francisco International Airport), SJC (Norman Y. Mineta San Jose International Airport), and OAK (Oakland International Airport). I then use the data to 
 provide guidance on:
 
